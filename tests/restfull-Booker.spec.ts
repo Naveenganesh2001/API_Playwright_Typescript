@@ -1,4 +1,4 @@
-/*import { test, expect } from '@playwright/test';
+import { test, expect } from '@playwright/test';
 
 let token : string;
 
@@ -122,5 +122,5 @@ test('Delete Booking', async ({ request }) => {
     expect(res.status()).toBe(201);
 
 });
-*/
+
 
